@@ -44,7 +44,7 @@ I'm Aakanksha, an economist by training and a tech enthusiast by passion. I enjo
 **📫 Get in Touch**
 
 - 📧 Email: aakankshamalik96@gmail.com
-- 🌐 LinkedIn: Your LinkedIn Profile
-- 🔗 GitHub: Aakanksha Malik
+- 🌐 LinkedIn: https://www.linkedin.com/in/aakanksha-malik/
+- 🔗 GitHub: [Aakanksha Malik](https://github.com/aakanksha5796)
 
 Let’s connect and create something amazing together! 🚀✨
